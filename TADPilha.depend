@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1678305029 source:c:\users\admin\documents\tadpilha\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+
+1678305069 c:\users\admin\documents\tadpilha\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+
+1678295175 c:\users\admin\documents\tadpilha\util.h
+
+1678295172 source:c:\users\admin\documents\tadpilha\util.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"util.h"
+
+1678294946 source:c:\users\admin\documents\tadpilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1678297004 c:\users\admin\documents\tadpilha\interface.h
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+	"fila.h"
+
+1678416903 c:\users\admin\documents\tadpilha\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+	"fila.h"
+
+1678411604 source:c:\users\admin\documents\tadpilha\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1678415922 source:c:\users\admin\documents\tadpilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilha.h"
+
